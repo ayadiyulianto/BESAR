@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="foto" size="1170.000000 2080.000000" />
+    <ImageTarget name="monte" size="2080.000000 1170.000000" />
+    <ImageTarget name="buku" size="1170.000000 932.823547" />
+    <ImageTarget name="masjid" size="2080.000000 1170.000000" />
+    <ImageTarget name="pintu" size="1170.000000 2080.000000" />
+    <ImageTarget name="meriam" size="2080.000000 1170.000000" />
+    <ImageTarget name="gerbangutama" size="1170.000000 2080.000000" />
+    <ImageTarget name="makam" size="2340.000000 1317.000000" />
+    <ImageTarget name="shaw" size="1170.000000 2080.000000" />
+    <ImageTarget name="gerbangdepan" size="3120.000000 1755.000000" />
+  </Tracking>
+</QCARConfig>

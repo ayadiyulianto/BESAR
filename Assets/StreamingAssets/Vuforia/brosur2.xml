@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="karno" size="1485.000000 1977.000000" />
+    <ImageTarget name="fort" size="1497.000000 1977.000000" />
+    <ImageTarget name="besar-fort" size="1439.000000 1905.494263" />
+    <ImageTarget name="besar-karno" size="1439.000000 1897.783691" />
+  </Tracking>
+</QCARConfig>
